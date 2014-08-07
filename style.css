@@ -68,6 +68,7 @@ CODE I {
     display: inline-block;
     margin: 0;
     font-style: italic;
+    font-weight: normal;
     }
 
 .svg-icon {
