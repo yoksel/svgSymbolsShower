@@ -20,6 +20,11 @@ H4 {
     color: steelblue;
     }
 
+H5 {
+    font-size: 1em;
+    font-weight: normal;
+    }
+
 P {
     margin: 1.5rem 0;
     }
@@ -37,7 +42,7 @@ LI {
 
 TEXTAREA {
     width: 100%;
-    height: 100px;
+    height: 200px;
     margin: 0 0 1em 0;
     border: 1px solid #CCC;
     border-radius: 10px;
@@ -67,8 +72,6 @@ CODE I {
 .icons-list__title {
     display: inline-block;
     margin: 0;
-    font-style: italic;
-    font-weight: normal;
     }
 
 .svg-icon {
