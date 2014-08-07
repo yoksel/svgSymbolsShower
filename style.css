@@ -23,6 +23,12 @@ H4 {
 P {
     margin: 1.5rem 0;
     }
+UL {
+    padding: 0;
+    }
+LI {
+    list-style: none;
+    }
 
 .wrapper {
     width: 650px;
